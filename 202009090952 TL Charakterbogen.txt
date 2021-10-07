@@ -337,11 +337,4 @@ Ausgestaltung des Charakternetz.................................[[202108180846]]
   - Sympathisch/Unsympathisch (Wie entsteht Sympathie? Vgl. Mary Sue/Gary Stu)
   - Vorbild oder Identifikation?
 
-
-
-<!--TODO Das hier hin auflösen: 
-
-- https://www.squibler.io/blog/character-development-sheet-template/
--->
-
 <!--TODO Alle Punkt umformen, sodass [C] erwähnt wird -->
